@@ -1,0 +1,19 @@
+{
+	"name": "@kilyakus/js-padview",
+	"productName": "padview",
+	"version": "1.2610.00417",
+	"description": "Backgrounds and backdrops of the stack: a static or preset background, a dynamic background with crossfading images and videos driven by a playlist, commands and events, and a stacked backdrop for modal windows. Integrates softly with PreView and HoldView.",
+	"main": "js/padview.obf.js",
+	"author": "Aleksandr Kilyakov (@Kilyakus)",
+	"authorUsername": "Kilyakus",
+	"license": "CC-BY-NC-4.0",
+	"licenseLegal": "Attribution-NonCommercial 4.0 International",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kilyakus/js-padview.git"
+	},
+	"build": {},
+	"publishConfig": {
+		"access": "public"
+	}
+}
